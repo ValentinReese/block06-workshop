@@ -1,0 +1,49 @@
+header, h1 {
+    font-family: 'Inconsolata', monospace;
+}
+
+header, p {
+    font-size: 19px;
+    font-weight: 650;
+}
+
+h2 {
+    text-align: center;
+}
+
+img {
+    max-width: 20%;
+    height: auto;
+    margin: 10px;
+    padding: 10px;
+}
+
+.morning {
+    border: 2px solid rgb(29, 115, 155);
+    background-color: rgb(55, 146, 224);
+    margin: 20px;
+}
+
+.morning h2 {
+    background-color: rgb(112, 180, 240);
+}
+
+.afternoon {
+    border: 2px solid rgb(0, 255, 191);
+    background-color: rgb(84, 231, 182);
+    margin: 20px;
+}
+
+.afternoon h2 {
+    background-color: rgb(65, 245, 140);
+}
+
+.evening {
+    border: 2px solid rgb(72, 192, 17);
+    background-color: rgb(247, 202, 135);
+    margin: 20px;
+}
+
+.evening h2 {
+    background-color: rgb(255, 179, 86);
+}
